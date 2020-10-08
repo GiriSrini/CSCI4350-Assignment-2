@@ -1,0 +1,6 @@
+FILE,DATETIME,MIC,CHANNELS,SAMPLE RATE,BIT DEPTH,REAFIR,RNNOISE,SPEEX
+1webcam.flac,2020-10-05 18:44,Logitech C615 Webcam,Mono,48000,16,1webcam_reafir.flac,1webcam_rnnoise.flac,1webcam_speex.flac
+2laptop.flac,2020-10-05 18:58,Dell XPS 15 9550,Stereo,48000,24,2laptop_reafir.flac,2laptop_rnnoise.flac,2laptop_speex.flac
+standard.m4a,2020-10-06 20:14,iPhone XS,Mono,48000,32,standard_reafir.flac,standard_rnnoise.flac,standard_speex.flac
+microwave.mp4,2020-10-07 20:12,iPhone 8,Mono,44100,32,microwave_reafir.flac,microwave_rnnoise.flac,microwave_speex.flac
+hurt.mp4,2020-10-07 20:12,iPhone 8,Mono,44100,32,hurt_reafir.flac,hurt_rnnoise.flac,hurt_speex.flac
